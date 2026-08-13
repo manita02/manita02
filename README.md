@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lucia-juarez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manitacoqui@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioweb-analuciajuarez.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ana-lucia-juarez.vercel.app/)
 
 </div>
 
@@ -91,7 +91,7 @@ Portfolio personal con **CMS** y dashboard `/admin` para gestión dinámica de c
 **Stack:** `Node.js` · `TypeScript` · `React` · `Next.js` · `PostgreSQL` · `Supabase`
 
 [![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manita02/PortfolioCMS)
-[![Live](https://img.shields.io/badge/Ver_demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioweb-analuciajuarez.pages.dev/)
+[![Live](https://img.shields.io/badge/Ver_demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ana-lucia-juarez.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +159,7 @@ Aplicación web **multiusuario** con autenticación, perfiles y administración 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lucia-juarez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manitacoqui@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioweb-analuciajuarez.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ana-lucia-juarez.vercel.app/)
 
 </div>
 
