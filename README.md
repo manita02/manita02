@@ -18,9 +18,7 @@
 
 ## Sobre mí
 
-**Full Stack Developer** con experiencia en desarrollo e integración de software, desde la concepción de **APIs REST** y modelos de datos hasta interfaces web reactivas y escalables.
-
-Mi enfoque está en **Clean Code**, buenas prácticas de desarrollo (**TDD**, **Clean Architecture**), integración de **testing (QA)** y colaboración en equipo para construir productos mantenibles.
+**Full Stack Developer** con experiencia en desarrollo e integración de software, desde la concepción de **APIs REST** y modelos de datos hasta interfaces web escalables.
 
 `C#` · `.NET Core` · `Node.js` · `TypeScript` · `React` · `Next.js` · `Python` · `Angular` · `PostgreSQL` · `Oracle`
 
