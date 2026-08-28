@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;.NET+%7C+Node.js+%7C+React+%7C+Python+%7C+Angular;APIs+REST+%7C+Web+Apps+%7C+PostgreSQL+%7C+Oracle)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;.NET+%7C+Node.js+%7C+React+%7C+Python+%7C+Angular+%7C+GenAI;APIs+REST+%7C+Web+Apps+%7C+PostgreSQL+%7C+Oracle)](https://git.io/typing-svg)
 
-> Desarrollo soluciones software end-to-end, desde la arquitectura de APIs REST y modelos de datos hasta interfaces web dinámicas y escalables.
+> Diseño, desarrollo y mantengo soluciones software end-to-end, desde APIs REST y modelos de datos hasta interfaces web.
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 ## Sobre mí
 
-**Full Stack Developer** con experiencia en desarrollo e integración de software, desde la concepción de **APIs REST** y modelos de datos hasta interfaces web escalables.
+**Full Stack Developer** con experiencia en desarrollo e integración de software, desde la concepción de **APIs REST** y modelos de datos hasta interfaces web.
 
-`C#` · `.NET Core` · `Node.js` · `TypeScript` · `React` · `Next.js` · `Python` · `Angular` · `PostgreSQL` · `Oracle`
+`C#` · `.NET Core` · `Node.js` · `TypeScript` · `React` · `Next.js` · `Python` · `Angular` · `PostgreSQL` · `Oracle` · `GenAI`
 
 ---
 
@@ -37,8 +37,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-`.NET Core` · `ASP.NET` · `LINQ` · `Entity Framework`
 
 ### Frontend
 
@@ -56,23 +56,34 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 
 ### Cloud & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 
 ### Herramientas & Prácticas
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger%20UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20SCRUM-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/JIRA%20%2F%20SCRUM-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![UML](https://img.shields.io/badge/Diagramas%20UML-FABD2F?style=for-the-badge&logo=diagramsdotnet&logoColor=black)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![QA](https://img.shields.io/badge/Test%20Funcional-EA4C89?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
-`Clean Architecture` · `TDD` · `Clean Code` · `SOLID` · `REST API` · `MVC`
+
+### IA & GenAI
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -96,11 +107,12 @@ Portfolio personal con **CMS** y dashboard `/admin` para gestión dinámica de c
 
 ### MusicTab
 
-Plataforma **Full Stack** de gestión y consulta de tablaturas musicales, con arquitectura cliente-servidor para explorar, administrar e interactuar con contenido.
+Plataforma **Full Stack** para explorar y administrar tablaturas. Incluye estadísticas de uso, Pua (asistente de IA) y una herramienta de captura desde video..
 
-**Stack:** `Next.js` · `React` · `Node.js` · `TypeScript` · `Python` · `MySQL`
+**Stack:** `Next.js` · `React` · `Node.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Langchain` · `Langraph` · `SDD`
 
 [![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manita02/MusicTab)
+[![Live](https://img.shields.io/badge/Ver_demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://musictab-4e9.pages.dev/)
 
 </td>
 </tr>
@@ -109,7 +121,7 @@ Plataforma **Full Stack** de gestión y consulta de tablaturas musicales, con ar
 
 ### API Gestión del Personal
 
-**API REST** desarrollada en **.NET** para la gestión de personal, con operaciones **CRUD** y documentación interactiva.
+**API REST** desarrollada en **.NET** para la gestión de personal, con operaciones **CRUD** y documentación.
 
 **Stack:** `C#` · `.NET` · `MySQL` · `APIs REST` · `Swagger UI`
 
@@ -147,7 +159,6 @@ Aplicación web **multiusuario** con autenticación, perfiles y administración 
 | :--- | :--- | :--- |
 | **Tecnicatura Superior** en Análisis, Desarrollo y Programación de Aplicaciones | I.S.F.T N°194 | Análisis, diseño e implementación de software |
 | **Certificación Full Stack Nivel 2** | Software Factory FORIT | `React` · `Node.js` · `TypeScript` · `Docker` · `TDD` |
-| **Azure Professional Training** | ConoSur.Tech | `Azure` · `Docker` · fundamentos de cloud e infraestructura |
 
 ---
 
