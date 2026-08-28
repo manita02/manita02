@@ -109,7 +109,7 @@ Portfolio personal con **CMS** y dashboard `/admin` para gestión dinámica de c
 
 Plataforma **Full Stack** para explorar y administrar tablaturas. Incluye estadísticas de uso, Pua (asistente de IA) y una herramienta de captura desde video..
 
-**Stack:** `Next.js` · `React` · `Node.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Langchain` · `Langraph` · `SDD`
+**Stack:** `Next.js` · `React` · `Node.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Langchain` · `LangGraph` · `SDD`
 
 [![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manita02/MusicTab)
 [![Live](https://img.shields.io/badge/Ver_demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://musictab-4e9.pages.dev/)
