@@ -165,7 +165,7 @@ Aplicación web **multiusuario** con autenticación, perfiles y administración 
 
 <div align="center">
 
-*⚡ Actualmente trabajando como **Full Stack Engineer Specialist** en **Accenture** *
+*⚡ Actualmente trabajando como Full Stack Engineer Specialist en Accenture*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lucia-juarez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manitacoqui@gmail.com)
