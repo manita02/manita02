@@ -107,7 +107,7 @@ Portfolio personal con **CMS** y dashboard `/admin` para gestión dinámica de c
 
 ### MusicTab
 
-Plataforma **Full Stack** para explorar y administrar tablaturas. Incluye estadísticas de uso, Pua (asistente de IA) y una herramienta de captura desde video..
+Plataforma **Full Stack** para explorar y administrar tablaturas. Incluye estadísticas de uso, Pua (asistente de IA) y una herramienta de captura desde video.
 
 **Stack:** `Next.js` · `React` · `Node.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Langchain` · `LangGraph` · `SDD`
 
@@ -150,6 +150,7 @@ Aplicación web **multiusuario** con autenticación, perfiles y administración 
 
 | Rol | Empresa | Stack |
 | :--- | :--- | :--- |
+| **Full Stack Engineer Specialist** | Accenture  |  |
 | **Full Stack Developer** | Geosystems | `.NET` · `C#` · `Python` · `Flask` · `Angular` · `Oracle` · `PostgreSQL` · `APIs REST` |
 | **Software Developer & QA** | Castellon.CH | `.NET` · `React` · `Node.js` · `PostgreSQL` · `QA` · `UML` |
 
@@ -164,7 +165,7 @@ Aplicación web **multiusuario** con autenticación, perfiles y administración 
 
 <div align="center">
 
-*⚡ Abierta a nuevas oportunidades en desarrollo de software.*
+*⚡ Actualmente trabajando como **Full Stack Engineer Specialist** en **Accenture** *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lucia-juarez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manitacoqui@gmail.com)
